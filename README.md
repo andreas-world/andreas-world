@@ -33,20 +33,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🛒 Fruit Store Management System (C#)
-Sistem manajemen buah sederhana yang mendukung **CRUD**, update stok, dan tampilan terminal.
-
-### 🔍 Social Media Trend Analysis (Big Data)
-Sistem analisis opini publik berbasis data Twitter, Instagram, dan Facebook.
-
-### 📱 Lost & Found App — *Susulja*
-Aplikasi untuk mempertemukan pemilik dan penemu barang hilang.  
-Fitur: Chat, Report, dan Peringatan Privasi.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
