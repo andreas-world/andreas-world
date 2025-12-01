@@ -48,7 +48,7 @@
 
 ## 🎧 Spotify (Now Playing)
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=p579zzcae0fpi52lepw28m7vt&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=p579zzcae0fpi52lepw28m7vt&cover_image=true&theme=novatorem)](https://open.spotify.com/user/p579zzcae0fpi52lepw28m7vt)
 
 ---
 
