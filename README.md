@@ -48,7 +48,8 @@
 
 ## 🎧 Spotify (Now Playing)
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=p579zzcae0fpi52lepw28m7vt&redirect=true&cover_image=true&theme=novatorem)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=p579zzcae0fpi52lepw28m7vt)
+
 
 
 ---
