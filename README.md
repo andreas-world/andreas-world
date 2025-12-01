@@ -2,6 +2,10 @@
 <h1 align="center">Hi there, I'm Andreas 👋</h1>
 <p align="center">Mahasiswa Informatika | Web Dev | AI Enthusiast | React & Backend Learner</p>
 
+<p align="center">
+  <img src="banner.jpg" width="100%" alt="Banner" />
+</p>
+
 ---
 
 ## 🚀 About Me
