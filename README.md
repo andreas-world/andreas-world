@@ -50,8 +50,6 @@
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=p579zzcae0fpi52lepw28m7vt)
 
-
-
 ---
 
 ## 📫 Reach Me On
@@ -61,4 +59,4 @@
 ---
 
 ## 🧩 Fun Section
-> "Code, Learn, Repeat."
+> "Hola como esta"
