@@ -45,16 +45,21 @@
 
 ## 📊 GitHub Stats
 
+> *Stable mirror version — anti-error*
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreas-world&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreas-world&layout=compact&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreas-world&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andreas-world&layout=compact&theme=tokyonight" height="160">
 </p>
 
 ---
 
 ## 🎧 Spotify (Now Playing)
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=p579zzcae0fpi52lepw28m7vt)
+> Setelah kamu deploy Spotify API sendiri, ganti URL di bawah ini:
+> `https://your-vercel-project.vercel.app/api?user=p579zzcae0fpi52lepw28m7vt`
+
+![Spotify Recently Played](https://your-vercel-project.vercel.app/api?user=p579zzcae0fpi52lepw28m7vt)
 
 ---
 
