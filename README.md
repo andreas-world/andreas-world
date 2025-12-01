@@ -55,7 +55,7 @@
 
 ## 📫 Reach Me On
 - Email: Andreasandrianto50176@email.com
-- Instagram: noround2
+- Instagram: [noround2](https://www.instagram.com/noround2/)
 - LinkedIn: https://www.linkedin.com/in/andreas-andrianto-thegoat/
 ---
 
