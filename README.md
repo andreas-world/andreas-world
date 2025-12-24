@@ -101,7 +101,7 @@ Feel free to reach out if you want to collaborate on projects, discuss tech, or 
 > "Hola como esta" - Andreas probably
 
 ### ⚡ Fun Fact
-I believe that the best code is the code that solves real problems elegantly!
+I Love Playboi Carti
 
 ---
 
