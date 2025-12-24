@@ -9,12 +9,22 @@
 
 ---
 
-## 🚀 About Me
-
-* 🌱 Currently learning **JavaScript, React, Backend with AI**
-* 🎓 Student of Informatics at Amikom Yogyakarta
-* 🔧 Tools I use: VS Code, Git, Postman
-* ⚡ Fun fact: I love tech, backend stuff, and exploring AI
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="richard.gif" width="100%" alt="coding gif" />
+    </td>
+    <td width="60%">
+      <h2>🚀 About Me</h2>
+      <ul>
+        <li>🌱 Currently learning <b>JavaScript, React, Backend with AI</b></li>
+        <li>🎓 Student of Informatics at Amikom Yogyakarta</li>
+        <li>🔧 Tools I use: VS Code, Git, Postman</li>
+        <li>⚡ Fun fact: I love tech, backend stuff, and exploring AI</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
