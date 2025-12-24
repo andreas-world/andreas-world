@@ -8,13 +8,12 @@
 </p>
 
 ---
-
-<table>
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="40%" align="center">
-      <img src="richard.gif" width="100%" alt="coding gif" />
+    <td width="35%" align="center" valign="middle">
+      <img src="richard.gif" width="90%" alt="coding gif" />
     </td>
-    <td width="60%">
+    <td width="65%" valign="middle">
       <h2>🚀 About Me</h2>
       <ul>
         <li>🌱 Currently learning <b>JavaScript, React, Backend with AI</b></li>
