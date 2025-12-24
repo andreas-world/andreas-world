@@ -8,12 +8,12 @@
 </p>
 
 ---
-<table width="100%" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
   <tr>
-    <td width="40%" align="center" valign="middle">
+    <td width="45%" valign="top" align="center">
       <img src="richard.gif" width="100%" alt="coding gif" />
     </td>
-    <td width="60%" valign="middle">
+    <td width="55%" valign="top">
       <h2>🚀 About Me</h2>
       <ul>
         <li>🌱 Currently learning <b>JavaScript, React, Backend with AI</b></li>
@@ -24,7 +24,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
