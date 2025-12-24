@@ -18,32 +18,33 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="45%">
 
 <img src="richard.gif" width="100%" alt="coding gif" />
 
 </td>
-<td width="50%">
+<td width="55%">
 
-```javascript
-const andreas = {
-    location: "Yogyakarta, Indonesia 🇮🇩",
-    education: "Amikom Yogyakarta",
-    role: "Informatics Student",
-    interests: [
-        "Backend Development",
-        "AI Integration", 
-        "Web Technologies",
-        "Problem Solving"
-    ],
-    currentlyLearning: {
-        languages: ["JavaScript", "PHP", "C#"],
-        frameworks: ["React", "Laravel"],
-        focus: "Backend with AI"
-    },
-    funFact: "I love backend logic! ⚡"
-};
-```
+<br>
+
+**📍 Location:** Yogyakarta, Indonesia 🇮🇩
+
+**🎓 Education:** Amikom Yogyakarta
+
+**👨‍💻 Role:** Informatics Student
+
+**💡 Interests:**
+- Backend Development
+- AI Integration
+- Web Technologies
+- Problem Solving
+
+**📚 Currently Learning:**
+- Languages: JavaScript, PHP, C#
+- Frameworks: React, Laravel
+- Focus: Backend with AI
+
+**⚡ Fun Fact:** I love backend logic!
 
 </td>
 </tr>
@@ -78,23 +79,17 @@ const andreas = {
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Andreas))
-    Learning
-      JavaScript Mastery
-      React Development
-      Backend Architecture
-      AI Integration
-    Building
-      Full Stack Apps
-      Laravel Projects
-      React Components
-    Goals
-      Open Source Contribution
-      Advanced Backend Skills
-      AI Powered Applications
-```
+### 🔥 Building Full-Stack Applications
+Creating modern web experiences with **React** & **Laravel** | Crafting responsive and interactive interfaces
+
+### 🤖 Exploring AI Integration  
+Diving into machine learning basics | Building smart automation tools | Experimenting with AI-powered features
+
+### 📚 Mastering Backend Architecture
+Learning design patterns | Optimizing database queries | Building scalable APIs
+
+### 🌐 Contributing to Open Source
+Collaborating with developers worldwide | Sharing knowledge | Growing with the community
 
 </div>
 
