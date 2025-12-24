@@ -60,11 +60,11 @@ I'm an Informatics student who enjoys building things on the web, especially on 
 
 <div align="center">
   
-![Andreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreasandrianto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+![Andreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreas-world&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreasandrianto&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreas-world&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreasandrianto&theme=tokyonight&hide_border=true&background=1a1b27)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreas-world&theme=tokyonight&hide_border=true&background=1a1b27)
 
 </div>
 
@@ -105,10 +105,10 @@ I believe that the best code is the code that solves real problems elegantly!
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=andreasandrianto&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=andreas-world&color=blueviolet&style=flat-square)
 
 **Thanks for visiting!** 😊
 
-⭐️ From [Andreas](https://github.com/andreasandrianto)
+⭐️ From [Andreas](https://github.com/andreas-world)
 
 </div>
