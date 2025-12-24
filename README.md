@@ -43,9 +43,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> About Me
 
-<img align="right" src="richard.gif" width="380px" style="border-radius: 15px; border: 2px solid #00d9ff; box-shadow: 0 0 20px rgba(0,217,255,0.3);"/>
-
-<br>
+<img align="right" src="richard.gif" width="380px" style="border-radius: 15px; border: 2px solid #00d9ff; box-shadow: 0 0 20px rgba(0,217,255,0.3); margin-top: 20px;"/>
 
 ```yaml
 name: Andreas
