@@ -76,6 +76,12 @@ hobbies:
   - Building Cool Stuff
 ```
 
+<br>
+
+<div align="center">
+  <img src="spongebob-tumblr.gif" width="400px" style="border-radius: 15px; border: 2px solid #00d9ff; box-shadow: 0 0 20px rgba(0,217,255,0.3);" alt="Cool GIF"/>
+</div>
+
 <br><br>
 
 <!-- Custom Divider -->
