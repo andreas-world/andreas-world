@@ -192,7 +192,7 @@ I spend most of my time building web applications and exploring how to integrate
 <tr>
 <td align="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="80" />
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="80" />
 
 <br><br>
 
@@ -207,7 +207,7 @@ Drop me a message anytime!
 </td>
 <td align="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" width="80" />
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="80" />
 
 <br><br>
 
@@ -222,7 +222,7 @@ Follow my coding journey!
 </td>
 <td align="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="80" />
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="80" />
 
 <br><br>
 
