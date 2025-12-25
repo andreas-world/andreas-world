@@ -59,12 +59,11 @@ I spend most of my time building web applications and exploring how to integrate
 
 <div align="center">
 
-### 😤 Debugging mode
 <img src="richard.gif" width="90%" style="border-radius: 10px;"/>
 
 <br>
 
-### 😄 When it works
+
 <img src="spongebob-tumblr.gif" width="90%" style="border-radius: 10px;"/>
 
 </div>
