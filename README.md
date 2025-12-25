@@ -1,32 +1,33 @@
 <div align="center">
 
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Andreas&fontSize=80&fontAlignY=35&color=gradient&customColorList=12" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=ANDREAS&fontSize=90&fontAlignY=40&color=gradient&customColorList=6,11,20&animation=twinkling" width="100%"/>
 
 <!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Informatics+Student;Backend+Developer;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Informatics+Student+%F0%9F%8E%93;Backend+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br><br>
 
-<!-- Banner -->
-<img src="banner.jpg" width="90%" style="border-radius: 15px;" alt="Banner"/>
+<!-- Banner with glow -->
+<img src="banner.jpg" width="85%" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);" alt="Banner"/>
 
 <br><br>
 
-<!-- Social Links -->
-<a href="https://www.linkedin.com/in/andreas-andrianto-thegoat/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/noround2/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:Andreasandrianto50176@email.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<!-- Social Links with hover effect -->
+<p>
+  <a href="https://www.linkedin.com/in/andreas-andrianto-thegoat/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
+  <a href="https://www.instagram.com/noround2/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/>
+  </a>
+  <a href="mailto:Andreasandrianto50176@email.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C71610"/>
+  </a>
+</p>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=andreas-world&color=00d9ff&style=flat-square" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=andreas-world&color=00d9ff&style=for-the-badge&label=VISITORS" alt=""/>
+<img src="https://img.shields.io/badge/Location-Yogyakarta%2C%20ID-00d9ff?style=for-the-badge&logo=google-maps&logoColor=white" alt=""/>
 
 </div>
 
@@ -36,35 +37,57 @@
 
 <br>
 
-## 👋 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <table>
 <tr>
-<td width="60%">
-
-Hey! I'm Andreas, an Informatics student from Yogyakarta, Indonesia.
-
-I spend most of my time building web applications and exploring how to integrate AI into real-world projects. Backend development is where I feel most comfortable, but I'm always learning new things.
-
-**What I'm focused on:**
-- 🔨 Building full-stack applications with React & Laravel
-- 🤖 Experimenting with AI integration
-- 📚 Learning backend architecture and design patterns
-- 🌱 Contributing to open source when I can
-
-**Currently learning:** JavaScript, React, Laravel, and AI/ML fundamentals
-
-</td>
-<td width="40%">
-
-<div align="center">
-
-<img src="richard.gif" width="90%" style="border-radius: 10px;"/>
+<td width="55%" valign="top">
 
 <br>
 
+Hey! I'm **Andreas**, an Informatics student from Yogyakarta, Indonesia 🇮🇩
 
-<img src="spongebob-tumblr.gif" width="90%" style="border-radius: 10px;"/>
+I spend most of my time building web applications and exploring how to integrate AI into real-world projects. Backend development is where I feel most comfortable, but I'm always learning new things.
+
+<br>
+
+### 🎯 Current Focus
+
+```yaml
+Building:
+  - Full-stack web applications
+  - REST APIs with Laravel
+  - Interactive React interfaces
+  
+Exploring:
+  - AI/ML integration
+  - Backend architecture patterns
+  - Database optimization
+  
+Learning:
+  - Advanced JavaScript & TypeScript
+  - React ecosystem
+  - Cloud technologies
+```
+
+<br>
+
+</td>
+<td width="45%" valign="top">
+
+<br>
+
+<div align="center">
+
+<img src="richard.gif" width="100%" style="border-radius: 15px; border: 2px solid #ff6b6b; box-shadow: 0 4px 16px rgba(255,107,107,0.4);"/>
+
+<sub><b>😤 When debugging</b></sub>
+
+<br><br><br>
+
+<img src="spongebob-tumblr.gif" width="100%" style="border-radius: 15px; border: 2px solid #51cf66; box-shadow: 0 4px 16px rgba(81,207,102,0.4);"/>
+
+<sub><b>😄 When it finally works!</b></sub>
 
 </div>
 
@@ -78,21 +101,42 @@ I spend most of my time building web applications and exploring how to integrate
 
 <br>
 
-## 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
-**Languages**
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=js,php,cs,html,css,python" />
+### 💻 Languages
 
-**Frameworks & Tools**
+<img src="https://skillicons.dev/icons?i=js,php,cs&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,python&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=react,laravel,nodejs,tailwind,bootstrap,mysql" />
+</td>
+<td align="center" width="33%">
 
-**Development Tools**
+### 🚀 Frameworks
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" />
+<img src="https://skillicons.dev/icons?i=react,laravel,nodejs&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=postman,docker,figma&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**Databases:** MySQL • MongoDB • PostgreSQL • Firebase
 
 </div>
 
@@ -102,17 +146,44 @@ I spend most of my time building web applications and exploring how to integrate
 
 <br>
 
-## 📫 Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect
 
 <div align="center">
 
-Feel free to reach out if you want to collaborate, chat about tech, or just say hi!
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📧 Email
+**Get in touch**
+
+[Andreasandrianto50176@email.com](mailto:Andreasandrianto50176@email.com)
+
+</td>
+<td align="center" width="33%">
+
+### 📸 Instagram
+**Follow my journey**
+
+[@noround2](https://www.instagram.com/noround2/)
+
+</td>
+<td align="center" width="33%">
+
+### 💼 LinkedIn
+**Let's connect**
+
+[Andreas Andrianto](https://www.linkedin.com/in/andreas-andrianto-thegoat/)
+
+</td>
+</tr>
+</table>
 
 <br>
 
-| 📧 Email | 📸 Instagram | 💼 LinkedIn |
-|---------|-------------|-------------|
-| [Andreasandrianto50176@email.com](mailto:Andreasandrianto50176@email.com) | [@noround2](https://www.instagram.com/noround2/) | [Andreas Andrianto](https://www.linkedin.com/in/andreas-andrianto-thegoat/) |
+Feel free to reach out for collaborations, tech discussions, or just to say hi! 👋
 
 </div>
 
@@ -123,16 +194,18 @@ Feel free to reach out if you want to collaborate, chat about tech, or just say 
 <br>
 
 <div align="center">
+
+<br>
 
 ### 💭 *"Hola como esta"*
 
 <br>
 
-Thanks for visiting! ⭐
+<img src="https://img.shields.io/badge/Thanks%20for%20visiting!-⭐-yellow?style=for-the-badge" />
 
-<br>
+<br><br>
 
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
