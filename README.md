@@ -26,8 +26,12 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=andreas-world&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt=""/>
-<img src="https://img.shields.io/badge/Based_in-Yogyakarta%2C_Indonesia-00d9ff?style=for-the-badge&logo=google-maps&logoColor=white" alt=""/>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Profile%20Views&style=for-the-badge&color=00d9ff&labelColor=1a1b27&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fandreas-world%2Freadme" alt=""/>
+  <img src="https://img.shields.io/badge/Based_in-Yogyakarta%2C_Indonesia-00d9ff?style=for-the-badge&labelColor=1a1b27&logo=google-maps&logoColor=white" alt=""/>
+</p>
 
 </div>
 
@@ -81,6 +85,7 @@ I spend most of my time building web applications and exploring how to integrate
 
 <br>
 
+**😤 Me debugging at 3 AM**
 
 <br><br>
 
@@ -88,7 +93,7 @@ I spend most of my time building web applications and exploring how to integrate
 
 <br>
 
-
+**😄 When the code finally works!**
 
 </div>
 
