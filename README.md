@@ -81,7 +81,6 @@ I spend most of my time building web applications and exploring how to integrate
 
 <br>
 
-**😤 Me debugging at 3 AM**
 
 <br><br>
 
@@ -89,7 +88,7 @@ I spend most of my time building web applications and exploring how to integrate
 
 <br>
 
-**😄 When the code finally works!**
+
 
 </div>
 
