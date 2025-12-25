@@ -16,21 +16,21 @@
 <!-- Social Links -->
 <p>
   <a href="https://www.linkedin.com/in/andreas-andrianto-thegoat/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/noround2/">
-    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:Andreasandrianto50176@email.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Profile%20Views&style=for-the-badge&color=00d9ff&labelColor=1a1b27&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fandreas-world%2Freadme" alt=""/>
-  <img src="https://img.shields.io/badge/Based_in-Yogyakarta%2C_Indonesia-00d9ff?style=for-the-badge&labelColor=1a1b27&logo=google-maps&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/Profile_Views-Inaccessible-gray?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/Based_in-Yogyakarta,_Indonesia-00d9ff?style=for-the-badge&labelColor=1a1b27&logo=google-maps&logoColor=white" alt=""/>
 </p>
 
 </div>
