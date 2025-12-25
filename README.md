@@ -86,23 +86,23 @@ I love building things on the web, especially on the backend. Currently explorin
 
 ## 📚 Currently Learning
 
-<table>
+<table width="100%">
 <tr>
-<td width="40%" align="center">
+<td width="35%" align="center" valign="top">
 
-<img src="spongebob-tumblr.gif" width="230px" style="border-radius: 15px;" />
+<img src="spongebob-tumblr.gif" width="220px" />
 
 </td>
-<td width="60%">
+<td width="65%" valign="top">
 
-### Currently focusing on:
+### Currently focusing on
 - JavaScript & TypeScript (clean code & patterns)
 - React hooks, state, and component design
 - Laravel fundamentals & backend flow
 - REST API & basic authentication (JWT)
 - Intro to AI/ML using Python
 
-### Short-term goals:
+### Short-term goals
 - Build cleaner full-stack projects
 - Contribute small fixes to open source
 - Improve backend logic & structure
@@ -111,7 +111,6 @@ I love building things on the web, especially on the backend. Currently explorin
 </td>
 </tr>
 </table>
-
 
 ---
 
