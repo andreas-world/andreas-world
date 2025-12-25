@@ -29,7 +29,7 @@
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Profile_Views-Inaccessible-gray?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=andreas-world&color=00d9ff&style=for-the-badge&label=Profile_Views&labelColor=1a1b27" alt=""/>
   <img src="https://img.shields.io/badge/Based_in-Yogyakarta,_Indonesia-00d9ff?style=for-the-badge&labelColor=1a1b27&logo=google-maps&logoColor=white" alt=""/>
 </p>
 
