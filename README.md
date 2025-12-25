@@ -1,264 +1,385 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANDREAS%20WORLD&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+<!-- Epic Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=WELCOME%20TO%20MY%20CHAOS&fontSize=60&color=0:00d9ff,50:00ff88,100:ff00ff&stroke=ffffff&animation=twinkling" width="100%"/>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Andreas+%F0%9F%91%8B;Informatics+Student+%7C+Web+Developer;Backend+Enthusiast+%7C+AI+Explorer;Building+the+future%2C+one+line+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey!+I'm+Andreas+%F0%9F%91%8B;Professional+Bug+Creator+%F0%9F%90%9B;Coffee+%E2%86%92+Code+Converter+%E2%98%95;Error+404%3A+Social+Life+Not+Found+%F0%9F%98%82" alt="Typing SVG" />
+</h1>
 
-<!-- Banner -->
-<img src="banner.jpg" width="90%" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,217,255,0.2);" alt="Banner"/>
+<img src="banner.jpg" width="85%" style="border-radius: 20px; border: 3px solid #00d9ff; box-shadow: 0 0 30px rgba(0,217,255,0.5);" alt="Banner"/>
 
 <br><br>
 
-<!-- Social Badges with Glow Effect -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/andreas-andrianto-thegoat/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/noround2/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-  </a>
-  <a href="mailto:Andreasandrianto50176@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-</p>
+<!-- Status Badges -->
+<img src="https://img.shields.io/badge/Status-Debugging%20Life-ff6b6b?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coffee%20Level-99%25-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bugs%20Created-∞-success?style=for-the-badge&logo=bug&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sleep%20Hours-404%20Not%20Found-blueviolet?style=for-the-badge&logo=minutemailer&logoColor=white"/>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andreas-world&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Location-Yogyakarta%2C%20ID-00d9ff?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
-</p>
+<br><br>
+
+<!-- Social Links -->
+<a href="https://www.linkedin.com/in/andreas-andrianto-thegoat/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/noround2/">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20My%20Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:Andreasandrianto50176@email.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me!-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=andreas-world&label=Curious%20Visitors&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 <br>
 
-<!-- Custom Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40" /> Who Am I? (The Real Question)
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-```yaml
-name: Andreas
-located_in: Yogyakarta, Indonesia
-education: Amikom Yogyakarta
-current_role: Informatics Student
+### 📝 The Official Bio
 
-fields_of_interests:
-  - Backend Development
-  - AI Integration
-  - Web Technologies
-  - System Architecture
-  - Problem Solving
+```javascript
+class Andreas extends Developer {
+  constructor() {
+    super();
+    this.location = "Yogyakarta, Indonesia 🇮🇩";
+    this.education = "Amikom Yogyakarta";
+    this.role = "Informatics Student";
+    this.status = "Turning ☕ into </> since 2020";
+  }
 
-technical_background:
-  - Backend Logic & APIs
-  - Full-Stack Development
-  - Database Design
-  - AI Implementation
+  getCurrentActivities() {
+    return [
+      "🔥 Building full-stack apps (and breaking them)",
+      "🤖 Teaching AI to be my rubber duck",
+      "📚 Learning React (and crying)",
+      "🐛 Creating bugs... I mean features",
+      "💤 Dreaming in JavaScript"
+    ];
+  }
 
-currently_learning: 
-  - Advanced JavaScript
-  - React Ecosystem
-  - Laravel Mastery
-  - AI & Machine Learning
+  getSkillLevel(skill) {
+    const skills = {
+      "Coding": "Advanced 💪",
+      "Googling": "Expert 🔍",
+      "Copy-Paste": "Master 🎓",
+      "Debugging": "Legendary 🦸",
+      "Coffee Making": "Godlike ☕"
+    };
+    return skills[skill];
+  }
+}
 
-hobbies:
-  - Coding
-  - Tech Exploration
-  - Building Cool Stuff
+const me = new Andreas();
+console.log(me.getCurrentActivities());
+// Output: *existential crisis noises* 🙃
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="40%" align="center" valign="top">
 
-<img src="richard.gif" width="100%" style="border-radius: 15px; border: 2px solid #00d9ff; box-shadow: 0 0 20px rgba(0,217,255,0.3);" alt="Richard"/>
+### 😤 When Code Doesn't Work
+<img src="richard.gif" width="95%" style="border-radius: 15px; border: 3px solid #ff6b6b; box-shadow: 0 0 25px rgba(255,107,107,0.5);" alt="Angry Richard"/>
 
 <br><br>
 
-<img src="spongebob-tumblr.gif" width="100%" style="border-radius: 15px; border: 2px solid #00d9ff; box-shadow: 0 0 20px rgba(0,217,255,0.3);" alt="Spongebob"/>
+### 😄 When It Finally Works!
+<img src="spongebob-tumblr.gif" width="95%" style="border-radius: 15px; border: 3px solid #51cf66; box-shadow: 0 0 25px rgba(81,207,102,0.5);" alt="Happy Spongebob"/>
 
 </td>
 </tr>
 </table>
 
-<br><br>
+<br>
 
-<!-- Custom Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> Tech Stack & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="40" /> My Arsenal (aka My Survival Kit)
 
 <div align="center">
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,php,cs,html,css,python&theme=dark" />
-</p>
+### 💻 Languages I Speak (Besides Sarcasm)
+<img src="https://skillicons.dev/icons?i=js,php,cs,html,css,python&theme=dark&perline=6" />
 
-### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,laravel,nodejs,express,tailwind,bootstrap&theme=dark" />
-</p>
+### 🚀 Frameworks & Libraries (My Best Friends)
+<img src="https://skillicons.dev/icons?i=react,laravel,nodejs,express,tailwind,bootstrap&theme=dark&perline=6" />
 
-### 🗄️ Databases & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase&theme=dark" />
-</p>
+### 🗄️ Databases (Where I Store My Regrets)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase&theme=dark&perline=4" />
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma&theme=dark" />
-</p>
+### 🛠️ Tools (That Save My Life Daily)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma&theme=dark&perline=6" />
 
 </div>
 
 <br>
 
-<!-- Custom Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" /> Current Mission: Operation Debug Life
+
+<div align="center">
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🔥 What I'm Building
+### 🎯 What I'm Building
 
-- 🌐 Full-stack web applications with **React** & **Laravel**
-- ⚡ High-performance REST APIs
-- 🎨 Modern, responsive user interfaces
-- 🔐 Secure authentication systems
-- 📱 Progressive Web Apps (PWA)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60"/>
+
+```yaml
+Projects:
+  - "Full-stack apps that actually work (sometimes)"
+  - "APIs that don't return 500 errors (hopefully)"
+  - "UIs that look good (according to my mom)"
+  - "Code that future me won't curse at"
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🎯 What I'm Learning
+### 📚 What I'm Learning
 
-- 🤖 AI integration in web applications
-- 📊 Advanced database optimization
-- 🏗️ Microservices architecture
-- 🔄 Real-time applications with WebSockets
-- ☁️ Cloud deployment & DevOps
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60"/>
+
+```yaml
+Currently Grinding:
+  - "JavaScript (still confusing after 3 years)"
+  - "React hooks (useEffect is my nemesis)"
+  - "Backend magic with Laravel"
+  - "AI stuff (teaching robots to code for me)"
+```
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br>
 
-<!-- Custom Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px"> Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tears%20of%20Joy.png" alt="Laughing" width="40" /> My Daily Routine (The Sad Truth)
+
+<div align="center">
+
+```mermaid
+pie title "How I Spend My Day"
+    "Coding" : 30
+    "Debugging" : 40
+    "Googling Errors" : 20
+    "Staring at Screen" : 5
+    "Pretending to Understand" : 5
+```
+
+<br>
+
+### ⚡ Developer Life Cycle
+
+```
+☕ Coffee → 💻 Code → 🐛 Bug → 😭 Cry → 🔍 Google → 💡 Solution → 
+😤 More Bugs → 😱 Panic → 🍕 Food → 💤 Sleep (optional) → Repeat ∞
+```
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" /> Let's Connect! (I Don't Bite... Much)
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="65px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="80"/>
+<br><br>
+<b>📧 Email</b>
 <br>
-<sub><b>Email Me</b></sub>
-<br>
+<sub>For business inquiries<br>(or cat memes)</sub>
+<br><br>
 <a href="mailto:Andreasandrianto50176@email.com">Andreasandrianto50176@email.com</a>
 </td>
 
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="65px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" width="80"/>
+<br><br>
+<b>📸 Instagram</b>
 <br>
-<sub><b>Follow on Instagram</b></sub>
-<br>
+<sub>Where I pretend to have<br>a life outside coding</sub>
+<br><br>
 <a href="https://www.instagram.com/noround2/">@noround2</a>
 </td>
 
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="65px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="80"/>
+<br><br>
+<b>💼 LinkedIn</b>
 <br>
-<sub><b>Connect on LinkedIn</b></sub>
-<br>
+<sub>Professional mode:<br>activated</sub>
+<br><br>
 <a href="https://www.linkedin.com/in/andreas-andrianto-thegoat/">Andreas Andrianto</a>
 </td>
 </tr>
 </table>
 
-<br>
-
-### 💬 Let's collaborate and build something amazing together! 🚀
-
 </div>
 
 <br>
 
-<!-- Custom Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px"> Fun Zone
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="40" /> Fun Facts & Random Stuff
 
 <div align="center">
 
-### 💭 My Dev Philosophy
+### 💭 My Philosophy
 
 > **"Hola como esta"** 🌮
 > 
-> *"The best code is not the one that works, but the one that solves real problems elegantly and makes other developers smile."* 😊
+> *- Andreas, probably high on caffeine*
 
 <br>
 
-### ⚡ Quick Facts About Me
+### 🎮 Achievement Unlocked
 
-- 🎓 Learning something new every single day
-- 💡 Backend logic is my playground
-- 🤝 Always open to collaboration
-- 🌱 Growing one commit at a time
-- ☕ Powered by coffee and curiosity
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="30"/>
+<br>
+<b>Bug Master</b>
+<br>
+<sub>Created 1000+ bugs</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="30"/>
+<br>
+<b>Coffee Addict</b>
+<br>
+<sub>Consumed 9999L coffee</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Screaming%20in%20Fear.png" width="30"/>
+<br>
+<b>Stack Overflow Hero</b>
+<br>
+<sub>Asked same question 100x</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Crescent%20Moon.png" width="30"/>
+<br>
+<b>Night Owl</b>
+<br>
+<sub>Sleep is for the weak</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
-### 🎮 When I'm Not Coding...
+### 📊 My Programming Stats
 
-I'm probably thinking about coding 😄 | Exploring new tech | Reading tech blogs | Building side projects
+```
+Lines of Code Written: Too many to count 📝
+Bugs Fixed: Some of them 🐛
+Bugs Created: All of them 💀
+Coffee Consumed: Not enough ☕
+Hours of Sleep: What's sleep? 😴
+Sanity Level: 404 Not Found 🤪
+```
 
 <br>
 
----
+### 🎯 Life Goals
+
+- [ ] Write code that works on first try
+- [ ] Understand CSS centering
+- [ ] Stop googling "how to exit vim"
+- [ ] Remember what I coded yesterday
+- [x] Convince myself I'm a good developer
 
 <br>
 
-### ⭐ If you find my work interesting, feel free to star my repositories!
+### ⚠️ Warning Label
+
+```
+⚠️ CAUTION: May randomly talk about:
+• Why my code doesn't work
+• How I fixed a bug at 3 AM
+• The superiority of dark mode
+• Why semicolons are optional (they're not)
+• Coffee brands and their caffeine content
+```
+
+</div>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andreas-world&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff" width="95%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<div align="center">
+
+## 🌟 Thanks for Stopping By!
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="80"/>
+
+<br>
+
+**If you made it this far, you're officially awesome! 🎉**
+
+*Feel free to reach out if you want to:*
+- 🤝 Collaborate on projects
+- 💬 Talk about tech (or memes)
+- ☕ Share coffee recommendations
+- 🐛 Debug life together
+
+<br>
+
+### Remember: We're all just Googling our way through life! 😂
+
+<br>
+
+<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Powered%20by-Bugs%20%26%20Errors-red?style=for-the-badge"/>
 
 <br><br>
 
-**Thank you for visiting! Let's build the future together! 🚀**
+**⭐ Don't forget to star my repos if you find them helpful!**
+
+*(Or if you feel bad for me)*
+
+</div>
 
 <br>
 
-</div>
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
+<!-- Epic Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
