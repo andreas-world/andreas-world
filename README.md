@@ -81,13 +81,12 @@ Learning:
 
 <img src="richard.gif" width="100%" style="border-radius: 15px; border: 2px solid #ff6b6b; box-shadow: 0 4px 16px rgba(255,107,107,0.4);"/>
 
-<sub><b>😤 When debugging</b></sub>
+
 
 <br><br><br>
 
 <img src="spongebob-tumblr.gif" width="100%" style="border-radius: 15px; border: 2px solid #51cf66; box-shadow: 0 4px 16px rgba(81,207,102,0.4);"/>
 
-<sub><b>😄 When it finally works!</b></sub>
 
 </div>
 
