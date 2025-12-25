@@ -192,53 +192,51 @@ I spend most of my time building web applications and exploring how to integrate
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="80" />
-
-<br><br>
-
-### 📧 Email
-
-Drop me a message anytime!
+<img src="https://img.icons8.com/fluency/80/gmail-new.png" width="65" />
 
 <br>
 
-**[Andreasandrianto50176@email.com](mailto:Andreasandrianto50176@email.com)**
+**📧 Email**
+
+<sub>Drop me a message anytime!</sub>
+
+<br>
+
+[Andreasandrianto50176@email.com](mailto:Andreasandrianto50176@email.com)
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="80" />
-
-<br><br>
-
-### 📸 Instagram
-
-Follow my coding journey!
+<img src="https://img.icons8.com/fluency/80/instagram-new.png" width="65" />
 
 <br>
 
-**[@noround2](https://www.instagram.com/noround2/)**
+**📸 Instagram**
+
+<sub>Follow my coding journey!</sub>
+
+<br>
+
+[@noround2](https://www.instagram.com/noround2/)
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/linkedin.png" width="80" />
-
-<br><br>
-
-### 💼 LinkedIn
-
-Let's connect professionally!
+<img src="https://img.icons8.com/fluency/80/linkedin.png" width="65" />
 
 <br>
 
-**[Andreas Andrianto](https://www.linkedin.com/in/andreas-andrianto-thegoat/)**
+**💼 LinkedIn**
+
+<sub>Let's connect professionally!</sub>
+
+<br>
+
+[Andreas Andrianto](https://www.linkedin.com/in/andreas-andrianto-thegoat/)
 
 </td>
 </tr>
 </table>
-
-<br>
 
 **Feel free to reach out for collaborations, tech discussions, or just to say hi!** 👋
 
