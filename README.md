@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=ANDREAS&fontSize=90&fontAlignY=38&color=gradient&customColorList=6,11,20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=I+Love+Kanye+West;Backend+Programmer+Wannabe;Informatics+Student;AI+Enthusiast;Always+Learning;Certified+Lover+Boy" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=I+Love+Kanye+West;Backend+Programmer+Wannabe;Informatics+Student;AI+Enthusiast;Always+Learning;Certified+Lover+Boy" alt="Typing SVG" />
 
 </div>
 
@@ -86,13 +86,23 @@ I love building things on the web, especially on the backend. Currently explorin
 
 ## 📚 Currently Learning
 
-<table width="100%">
-<tr>
-<td width="35%" align="center" valign="top">
+<img align="left" src="spongebob-tumblr.gif" width="250px" style="border-radius: 15px; margin-right: 20px;"/>
 
-<img src="spongebob-tumblr.gif" width="220px" />
+**Deepening my knowledge in:**
+- Advanced JavaScript & TypeScript
+- React hooks & state management
+- Laravel best practices & optimization
+- AI/ML fundamentals with Python
+- Cloud technologies (AWS, Docker)
+- System design & architecture patterns
 
-</td>
+**Goals for 2025:**
+- Contribute more to open source
+- Build AI-powered applications
+- Master backend architecture
+- Deploy production-ready apps
+
+<br clear="left"/>
 
 ---
 
