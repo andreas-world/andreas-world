@@ -86,7 +86,14 @@ I love building things on the web, especially on the backend. Currently explorin
 
 ## 📚 Currently Learning
 
-<img align="left" src="spongebob-tumblr.gif" width="250px" style="border-radius: 15px; margin-right: 20px;"/>
+<table>
+<tr>
+<td width="35%">
+
+<img src="spongebob-tumblr.gif" width="100%" style="border-radius: 15px;"/>
+
+</td>
+<td width="65%">
 
 **Deepening my knowledge in:**
 - Advanced JavaScript & TypeScript
@@ -102,7 +109,9 @@ I love building things on the web, especially on the backend. Currently explorin
 - Master backend architecture
 - Deploy production-ready apps
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 ---
 
