@@ -103,7 +103,7 @@ I love building things on the web, especially on the backend. Currently explorin
 - Cloud technologies (AWS, Docker)
 - System design & architecture patterns
 
-**Goals for 2025:**
+**Goals for 2026:**
 - Contribute more to open source
 - Build AI-powered applications
 - Master backend architecture
