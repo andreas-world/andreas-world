@@ -18,7 +18,7 @@
 
 ---
 
-## 👋 Hey there!
+## Hey there!
 
 <img align="right" src="richard.gif" width="300px" style="border-radius: 15px; margin-left: 20px;"/>
 
@@ -87,7 +87,7 @@ Production-ready<br/>applications
 
 <div align="center">
 
-**Open to collaborations, tech discussions, or just saying hi!** 👋
+**Open to collaborations, tech discussions, or just saying hi!** 
 
 <br/>
 
