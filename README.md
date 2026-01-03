@@ -89,25 +89,25 @@ I love building things on the web, especially on the backend. Currently explorin
 <table>
 <tr>
 <td width="35%">
-
 <img src="spongebob-tumblr.gif" width="100%" style="border-radius: 15px;"/>
-
 </td>
 <td width="65%">
 
-**Deepening my knowledge in:**
-- Advanced JavaScript & TypeScript
-- React hooks & state management
-- Laravel best practices & optimization
-- AI/ML fundamentals with Python
-- Cloud technologies (AWS, Docker)
-- System design & architecture patterns
+### 🎯 On My Radar
 
-**Goals for 2026:**
-- Contribute more to open source
-- Build AI-powered applications
-- Master backend architecture
-- Deploy production-ready apps
+**Frontend Mastery**
+- 🔷 Advanced JavaScript & TypeScript wizardry
+- ⚛️ React hooks & state management deep dive
+
+**Backend Excellence**  
+- 🔶 Laravel optimization & best practices
+- 🏗️ System design & architecture patterns
+
+**Expanding Horizons**
+- 🤖 AI/ML fundamentals with Python
+- ☁️ Cloud technologies (AWS, Docker)
+
+> *"Always learning, always growing"* 🚀
 
 </td>
 </tr>
