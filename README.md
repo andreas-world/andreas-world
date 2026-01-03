@@ -98,13 +98,11 @@ Production-ready<br/>applications
 <br/>
 
 *"Before the stages, the spotlight, the fame, the plaques, the history books."* 
-
 <br/>
-
-![](https://komarev.com/ghpvc/?username=andreas-world&color=00d9ff&style=flat-square)
-
 **Great Things Start in Little Rooms**
 
+<br/>
+![](https://komarev.com/ghpvc/?username=andreas-world&color=00d9ff&style=flat-square)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
