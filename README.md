@@ -93,7 +93,7 @@ Production-ready<br/>applications
 
 | 📧 Email | 📸 Instagram | 💼 LinkedIn |
 |:--------:|:------------:|:-----------:|
-| [andreasandrianto50176@email.com](mailto:andreasandrianto50176@email.com) | [@noround2](https://www.instagram.com/noround2/) | [Andreas Andrianto](https://www.linkedin.com/in/andreas-andrianto-thegoat/) |
+| [andreasandrianto50176@gmail.com](mailto:andreasandrianto50176@gmail.com) | [@noround2](https://www.instagram.com/noround2/) | [Andreas Andrianto](https://www.linkedin.com/in/andreasandrianto) |
 
 <br/>
 
