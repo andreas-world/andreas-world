@@ -93,16 +93,17 @@ Production-ready<br/>applications
 
 | 📧 Email | 📸 Instagram | 💼 LinkedIn |
 |:--------:|:------------:|:-----------:|
-| [andreasandrianto50176@email.com](mailto:Andreasandrianto50176@email.com) | [@noround2](https://www.instagram.com/noround2/) | [Andreas Andrianto](https://www.linkedin.com/in/andreas-andrianto-thegoat/) |
+| [andreasandrianto50176@email.com](mailto:andreasandrianto50176@email.com) | [@noround2](https://www.instagram.com/noround2/) | [Andreas Andrianto](https://www.linkedin.com/in/andreas-andrianto-thegoat/) |
 
 <br/>
 
-*"Before the stages, the spotlight, the fame, the plaques, the history books."* 
-<br/>
-**Great Things Start in Little Rooms**
+<i>"Before the stages, the spotlight, the fame, the plaques, the history books."</i><br/>
+<b>Great Things Start in Little Rooms</b>
 
-<br/>
-![](https://komarev.com/ghpvc/?username=andreas-world&color=00d9ff&style=flat-square)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=andreas-world&color=00d9ff&style=flat-square" />
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
