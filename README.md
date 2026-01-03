@@ -1,15 +1,12 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=ANDREAS&fontSize=90&fontAlignY=38&color=gradient&customColorList=6,11,20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=God+Bless+Andreas+;Backend+Programmer+Wannabe;I+Love+Kanye+West;Informatics+Student;AI+Enthusiast;Always+Learning;Certified+Lover+Boy" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=God+Bless+Andreas;Backend+Programmer+Wannabe;I+Love+Kanye+West;Informatics+Student;AI+Enthusiast;Always+Learning;Certified+Lover+Boy" alt="Typing SVG" />
 </div>
 
 <img src="banner.jpg" width="100%" alt="Banner"/>
 
 <div align="center">
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-andrianto-thegoat/)
@@ -29,10 +26,10 @@ I'm **Andreas**, an Informatics student from Yogyakarta, Indonesia.
 
 I love building things on the web, especially on the backend. Currently exploring how to integrate AI into real-world applications while learning modern web technologies.
 
-**What I'm doing:**
+**What I'm up to:**
 - 🔨 Building full-stack apps with React & Laravel
 - 🤖 Experimenting with AI/ML integration
-- 📚 Learning system architecture & design patterns
+- 🏗️ Learning system architecture & cloud tech
 - 🌱 Contributing to open source when I can
 
 <br clear="right"/>
@@ -43,75 +40,46 @@ I love building things on the web, especially on the backend. Currently explorin
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,laravel,nodejs,express,tailwind,bootstrap&theme=dark" />
 
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=js,php,cs&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=html,css,python&theme=dark" />
-
-</td>
-<td align="center" width="25%">
-
-### 🚀 Frameworks
-
-<img src="https://skillicons.dev/icons?i=react,laravel,nodejs&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express&theme=dark" />
-
-</td>
-<td align="center" width="25%">
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=firebase,redis&theme=dark" />
-
-</td>
-<td align="center" width="25%">
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=postman,docker,figma&theme=dark" />
-
-</td>
-</tr>
-</table>
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,redis&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma&theme=dark" />
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 🎯 2026 Focus
 
+<div align="center">
 <table>
 <tr>
-<td width="35%">
-<img src="spongebob-tumblr.gif" width="100%" style="border-radius: 15px;"/>
+<td align="center" width="33%">
+
+### 🚀 Build
+Create AI-powered<br/>applications & tools
+
 </td>
-<td width="65%">
+<td align="center" width="33%">
 
-### 🎯 On My Radar
+### 🎨 Master
+Backend architecture<br/>& system design
 
-**Frontend Mastery**
-- 🔷 Advanced JavaScript & TypeScript wizardry
-- ⚛️ React hooks & state management deep dive
+</td>
+<td align="center" width="33%">
 
-**Backend Excellence**  
-- 🔶 Laravel optimization & best practices
-- 🏗️ System design & architecture patterns
-
-**Expanding Horizons**
-- 🤖 AI/ML fundamentals with Python
-- ☁️ Cloud technologies (AWS, Docker)
-
-> *"Always learning, always growing"* 🚀
+### 🌟 Deploy
+Production-ready<br/>applications
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -119,27 +87,23 @@ I love building things on the web, especially on the backend. Currently explorin
 
 <div align="center">
 
+**Open to collaborations, tech discussions, or just saying hi!** 👋
+
+<br/>
+
 | 📧 Email | 📸 Instagram | 💼 LinkedIn |
 |:--------:|:------------:|:-----------:|
 | [andreasandrianto50176@email.com](mailto:Andreasandrianto50176@email.com) | [@noround2](https://www.instagram.com/noround2/) | [Andreas Andrianto](https://www.linkedin.com/in/andreas-andrianto-thegoat/) |
 
-**Open to collaborations, tech discussions, or just saying hi!** 👋
-
-</div>
-
----
-
-<div align="center">
+<br/>
 
 *"Hola como esta"* 😄
 
-<br>
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=andreas-world&color=00d9ff&style=flat-square)
 
 **Thanks for visiting! ⭐**
-
-<br>
 
 </div>
 
