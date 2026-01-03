@@ -97,7 +97,7 @@ Production-ready<br/>applications
 
 <br/>
 
-*"Before the stages, the plaques, the history books"* 
+*"Before the stages, the spotlight, the fame, the plaques, the history books."* 
 
 <br/>
 
