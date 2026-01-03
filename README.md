@@ -97,13 +97,13 @@ Production-ready<br/>applications
 
 <br/>
 
-*"Hola como esta"* 😄
+*"Great Things Start in Little Rooms"* 
 
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=andreas-world&color=00d9ff&style=flat-square)
 
-**Thanks for visiting! ⭐**
+**Thanks for visiting! **
 
 </div>
 
