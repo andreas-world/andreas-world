@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=ANDREAS&fontSize=90&fontAlignY=38&color=gradient&customColorList=6,11,20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=I+Love+Kanye+West;Backend+Programmer+Wannabe;Informatics+Student;AI+Enthusiast;Always+Learning;Certified+Lover+Boy" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=God+Bless+Andreas+;Backend+Programmer+Wannabe;I+Love+Kanye+West;Informatics+Student;AI+Enthusiast;Always+Learning;Certified+Lover+Boy" alt="Typing SVG" />
 
 </div>
 
